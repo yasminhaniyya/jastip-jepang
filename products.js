@@ -120,7 +120,7 @@ const products = [
     dp: 45000,
     image: 'foto/meiji-matcha-strawberry-better.jpeg',
     status: 'open',
-    badge: null
+    badge: 'Best Seller'
   },
   {
     id: 17,
@@ -352,7 +352,7 @@ const products = [
     category: 'Uniqlo',
     price: 370000,
     dp: 355000,
-    image: 'foto/jaket-UV.jpeg',
+    image: 'foto/jaket-uv.jpeg',
     status: 'open',
     badge: null
   },
