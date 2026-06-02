@@ -973,6 +973,26 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 94,
+    name: 'Pet Clothing',
+    category: 'Things',
+    price: 55000,
+    dp: 45000,
+    image: 'foto/pet-clothing.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 95,
+    name: 'Topi',
+    category: 'Things',
+    price: 55000,
+    dp: 45000,
+    image: 'foto/topi.jpeg',
+    status: 'open',
+    badge: null
+  },
   
   
   
