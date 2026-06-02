@@ -472,6 +472,16 @@ const products = [
   
   // ── GU ─────────────────────────────────────────────
   {
+    id: 69,
+    name: 'Mesh Ballet Sneakers Blue, Pink, White',
+    category: 'GU',
+    price: 420000,
+    dp: 410000,
+    image: 'foto/mesh-ballet-2.jpeg',
+    status: 'open',
+    badge: 'Most Wanted'
+  },
+  {
     id: 66,
     name: 'Strapt Ballet Sneakers Black & Red',
     category: 'GU',
@@ -682,16 +692,7 @@ const products = [
     status: 'open',
     badge: null
   },
-  {
-    id: 69,
-    name: 'Mesh Ballet Sneakers Blue, Pink, White',
-    category: 'GU',
-    price: 420000,
-    dp: 410000,
-    image: 'foto/mesh-ballet-2.jpeg',
-    status: 'open',
-    badge: 'Most Wanted'
-  },
+  
   {
     id: 70,
     name: 'Washable Knitted polo Shirt ',
