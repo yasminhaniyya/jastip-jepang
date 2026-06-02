@@ -308,12 +308,12 @@ const products = [
   },
  {
     id: 34,
-    name: 'Uniqlo Bag (SALE price)',
+    name: 'Uniqlo Bag (SALE price, harga bisa berubah)',
     category: 'Uniqlo',
     price: 305000,
     dp: 290000,
     image: 'foto/bag-sale-price.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
    {
@@ -368,12 +368,12 @@ const products = [
   },
   {
     id: 40,
-    name: 'Jaket Uniqlo (Sale Price)',
+    name: 'Jaket Uniqlo (Sale Price, ini harga diskon 50%, bisa berubah jika sudah tidak diskon)',
     category: 'Uniqlo',
     price: 430000,
     dp: 415000,
     image: 'foto/jaket-denim.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
     {
@@ -398,12 +398,12 @@ const products = [
   },
     {
     id: 43,
-    name: 'Jaket Uniqlo Krem (Sale Price)',
+    name: 'Jaket Uniqlo Krem (Sale Price, ini harga diskon 50%, bisa berubah jika sudah tidak diskon)',
     category: 'Uniqlo',
     price: 420000,
     dp: 405000,
     image: 'foto/jaket-krem.jpeg',
-    status: 'closed',
+    status: 'cpen',
     badge: null
   },
    {
@@ -448,12 +448,12 @@ const products = [
   },
   {
     id: 48,
-    name: 'Dry Wide Tshirt (SALE Price)',
+    name: 'Dry Wide Tshirt (SALE Price, harga bisa berubah)',
     category: 'Uniqlo',
     price: 195000,
     dp: 185000,
     image: 'foto/shirring-sleeve.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
   {
@@ -573,22 +573,22 @@ const products = [
   },
   {
     id: 55,
-    name: 'Two Toned Denim Skirt (SALE Price)',
+    name: 'Two Toned Denim Skirt (SALE Price, harga bisa berubah)',
     category: 'GU',
     price: 195000,
     dp: 180000,
     image: 'foto/two-toned.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
   {
     id: 56,
-    name: 'Circular Midi Skirt (SALE Price)',
+    name: 'Circular Midi Skirt (SALE Price, harga bisa berubah)',
     category: 'GU',
     price: 240000,
     dp: 230000,
     image: 'foto/circular-midi.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
   {
