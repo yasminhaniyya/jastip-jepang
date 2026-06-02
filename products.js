@@ -304,7 +304,7 @@ const products = [
     dp: 290000,
     image: 'foto/bag-sale-price.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
    {
     id: 35,
@@ -364,7 +364,7 @@ const products = [
     dp: 415000,
     image: 'foto/jaket-denim.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
     {
     id: 41,
@@ -394,7 +394,7 @@ const products = [
     dp: 405000,
     image: 'foto/jaket-krem.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
    {
     id: 44,
@@ -444,7 +444,7 @@ const products = [
     dp: 185000,
     image: 'foto/shirring-sleeve.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
   {
     id: 49,
@@ -569,7 +569,7 @@ const products = [
     dp: 180000,
     image: 'foto/two-toned.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
   {
     id: 56,
@@ -579,7 +579,7 @@ const products = [
     dp: 230000,
     image: 'foto/circular-midi.jpeg',
     status: 'open',
-    badge: null
+    badge: 'SALE'
   },
   {
     id: 57,
