@@ -403,7 +403,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/jaket-krem.jpeg',
-    status: 'cpen',
+    status: 'open',
     badge: null
   },
    {
