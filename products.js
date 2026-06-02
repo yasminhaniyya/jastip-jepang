@@ -203,16 +203,6 @@ const products = [
     badge: 'Best Seller'
   },
   {
-    id: 26,
-    name: 'Alfort Big Pack',
-    category: 'Snacks',
-    price: 62000,
-    dp: 50000,
-    image: 'foto/alfort-big-pack.jpeg',
-    status: 'open',
-    badge: null
-  },
-  {
     id: 27,
     name: 'Matcha Uji Double Rich',
     category: 'Snacks',
