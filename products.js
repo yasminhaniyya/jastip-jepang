@@ -1,33 +1,8 @@
-// ============================================================
-//  PRODUCTS.JS — Data produk JASTIP JEPANG by hilyasmin
-//  Edit file ini setiap kali mau tambah/ubah/hapus produk
-// ============================================================
 
 const WHATSAPP_NUMBER = '6282329191645';
 const STORE_NAME      = 'JASTIP JEPANG';
 const STORE_SUBTITLE  = 'by hilyasmin 🇯🇵';
 
-// ------------------------------------------------------------
-//  CARA TAMBAH PRODUK BARU:
-//  1. Copy salah satu blok { ... } di bawah
-//  2. Paste setelah blok terakhir (sebelum tanda ];)
-//  3. Tambahkan koma setelah blok sebelumnya
-//  4. Ganti semua datanya
-//  5. Simpan file → refresh browser
-//
-//  KOLOM YANG WAJIB DIISI:
-//    id       → angka unik, lanjutkan dari nomor terakhir
-//    name     → nama produk
-//    category → pilih salah satu: 'Snacks' | 'Make Up' | 'Cloth' | 'Uniqlo' | 'GU'
-//    price    → harga dalam rupiah (tanpa titik/koma)
-//    dp       → nominal DP dalam rupiah
-//    image    → path foto, taruh file foto di folder /foto/
-//    status   → 'open' = masih bisa pesan | 'closed' = sudah tutup
-//
-//  KOLOM OPSIONAL:
-//    badge    → label kecil di foto, contoh: 'Best Seller' | 'New' | 'Limited'
-//               isi null kalau tidak mau pakai badge
-// ------------------------------------------------------------
 
 const products = [
 
@@ -204,7 +179,7 @@ const products = [
   },
   {
     id: 27,
-    name: 'Matcha Uji Double Rich',
+    name: 'Tsujiri Matcha Uji Double Rich 150g',
     category: 'Snacks',
     price: 117000,
     dp: 100000,
@@ -214,7 +189,7 @@ const products = [
   },
   {
     id: 28,
-    name: 'Matcha Uji Rich',
+    name: 'Tsujiri Matcha Uji Rich 170g',
     category: 'Snacks',
     price: 112000,
     dp: 100000,
