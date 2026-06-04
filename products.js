@@ -51,7 +51,7 @@ const products = [
     id: 12,
     name: 'Alfort Mini Chocolate Ori',
     category: 'Snacks',
-    price: 48000,
+    price: 40000,
     dp: 30000,
     image: 'foto/alfort-mini-chocolate-ori.jpeg',
     status: 'open',
