@@ -335,8 +335,8 @@ const products = [
     id: 40,
     name: 'Jaket Uniqlo (Sale Price, ini harga diskon 50%, bisa berubah jika sudah tidak diskon)',
     category: 'Uniqlo',
-    price: 430000,
-    dp: 415000,
+    price: 420000,
+    dp: 405000,
     image: 'foto/jaket-denim.jpeg',
     status: 'open',
     badge: 'SALE'
