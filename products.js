@@ -1331,6 +1331,99 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 132,
+    name: 'Dermalaser Sheet Mask',
+    category: 'Skincare',
+    price: 100000,
+    dp: 85000,
+    image: 'foto/dermalaser-100.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Dermalaser Sheet Mask (kiri)',
+    category: 'Skincare',
+    price: 110000,
+    dp: 95000,
+    image: 'foto/dermalaser-100-kiri-110.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Tigeraid Cica Mask',
+    category: 'Skincare',
+    price: 255000,
+    dp: 245000,
+    image: 'foto/tigeraid-255.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: '&honey Treatment',
+    category: 'Skincare',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/&honey-150.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Himawari Bloom d Or',
+    category: 'Skincare',
+    price: 167000,
+    dp: 150000,
+    image: 'foto/himawari-bloomdor-167.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Conditioner 350 ml',
+    category: 'Skincare',
+    price: 55000,
+    dp: 40000,
+    image: 'foto/conditioner-350ml-55.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Hair Mask Diane',
+    category: 'Skincare',
+    price: 135000,
+    dp: 120000,
+    image: 'foto/diane-135.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Wet Brush',
+    category: 'Skincare',
+    price: 210000,
+    dp: 200000,
+    image: 'foto/wet-brush-210.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 132,
+    name: 'Ma&Me Shampoo',
+    category: 'Skincare',
+    price: 85000,
+    dp: 70000,
+    image: 'foto/ma&me-85.jpeg',
+    status: 'open',
+    badge: null
+  },
+  
+  
+  
   
   
 
