@@ -1239,6 +1239,16 @@ const products = [
     status: 'open',
     badge: null
   },
+   {
+    id: 139,
+    name: 'Wet Brush',
+    category: 'Things',
+    price: 210000,
+    dp: 200000,
+    image: 'foto/wet-brush-210.jpeg',
+    status: 'open',
+    badge: null
+  },
   // ── Skincare ────────────────────────────────────────────
   
   {
@@ -1337,7 +1347,7 @@ const products = [
     category: 'Skincare',
     price: 100000,
     dp: 85000,
-    image: 'foto/dermalaser-100.jpeg',
+    image: 'foto/Dermalaser-100.jpeg',
     status: 'open',
     badge: null
   },
@@ -1401,16 +1411,7 @@ const products = [
     status: 'open',
     badge: null
   },
-  {
-    id: 139,
-    name: 'Wet Brush',
-    category: 'Skincare',
-    price: 210000,
-    dp: 200000,
-    image: 'foto/wet-brush-210.jpeg',
-    status: 'open',
-    badge: null
-  },
+ 
   {
     id: 140,
     name: 'Ma&Me Shampoo',
