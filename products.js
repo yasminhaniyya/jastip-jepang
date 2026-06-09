@@ -1239,14 +1239,98 @@ const products = [
     status: 'open',
     badge: null
   },
+  // ── Skincare ────────────────────────────────────────────
   
-  
-  
-  
-  
-  
-  
-  
+  {
+    id: 123,
+    name: 'Melano CC Sheet Mask isi 10',
+    category: 'Skincare',
+    price: 97000,
+    dp: 80000,
+    image: 'foto/melano-cc-97k.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 124,
+    name: 'Keana Rice Sheet Mask',
+    category: 'Skincare',
+    price: 105000,
+    dp: 90000,
+    image: 'foto/sheet-keana-rice-105.jpeg',
+    status: 'open',
+    badge: "Best Seller"
+  },
+  {
+    id: 125,
+    name: 'Nivea LipBalm (color)',
+    category: 'Skincare',
+    price: 112000,
+    dp: 100000,
+    image: 'foto/nivea-lip-112.jpeg',
+    status: 'open',
+    badge: null
+  },
+{
+    id: 126,
+    name: 'Deonatulle Deodorant',
+    category: 'Skincare',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/bricks-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 127,
+    name: 'Lacherie Kit Moist&Toner',
+    category: 'Skincare',
+    price: 135000,
+    dp: 120000,
+    image: 'foto/lacherie-135.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 128,
+    name: 'Foot Spray',
+    category: 'Skincare',
+    price: 76000,
+    dp: 55000,
+    image: 'foto/foot-spray-76.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 129,
+    name: 'Sneakers Disinfectant',
+    category: 'Skincare',
+    price: 82000,
+    dp: 70000,
+    image: 'foto/sneaker-disin-82.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 130,
+    name: 'Kose Clear Turn Vitamin Bomb face Mask',
+    category: 'Skincare',
+    price: 97000,
+    dp: 80000,
+    image: 'foto/kose-vit-c-97.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 131,
+    name: 'Kose Clear Turn Sheet Mask',
+    category: 'Skincare',
+    price: 97000,
+    dp: 80000,
+    image: 'foto/kose-clear-97.jpeg',
+    status: 'open',
+    badge: null
+  },
   
   
 
