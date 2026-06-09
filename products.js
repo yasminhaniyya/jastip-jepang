@@ -1342,7 +1342,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 133,
     name: 'Dermalaser Sheet Mask (kiri)',
     category: 'Skincare',
     price: 110000,
@@ -1352,7 +1352,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 134,
     name: 'Tigeraid Cica Mask',
     category: 'Skincare',
     price: 255000,
@@ -1362,7 +1362,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 135,
     name: '&honey Treatment',
     category: 'Skincare',
     price: 150000,
@@ -1372,7 +1372,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 136,
     name: 'Himawari Bloom d Or',
     category: 'Skincare',
     price: 167000,
@@ -1382,7 +1382,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 137,
     name: 'Conditioner 350 ml',
     category: 'Skincare',
     price: 55000,
@@ -1392,7 +1392,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 138,
     name: 'Hair Mask Diane',
     category: 'Skincare',
     price: 135000,
@@ -1402,7 +1402,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 139,
     name: 'Wet Brush',
     category: 'Skincare',
     price: 210000,
@@ -1412,7 +1412,7 @@ const products = [
     badge: null
   },
   {
-    id: 132,
+    id: 140,
     name: 'Ma&Me Shampoo',
     category: 'Skincare',
     price: 85000,
