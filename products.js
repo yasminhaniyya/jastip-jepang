@@ -1422,8 +1422,117 @@ const products = [
     status: 'open',
     badge: null
   },
-  
-  
+  // ── Skincare Diskon ────────────────────────────────────────────
+  {
+    id: 141,
+    name: 'The Stem Cell Mask',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 115000,
+    dp: 100000,
+    image: 'foto/thestem-115.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 142,
+    name: 'The Stem Cell Mask Black',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 120000,
+    dp: 105000,
+    image: 'foto/thestem-120.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 143,
+    name: 'The Stem Cell Mask',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 115000,
+    dp: 100000,
+    image: 'foto/thestem-115.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 144,
+    name: 'The Stem Cell Mask',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 115000,
+    dp: 100000,
+    image: 'foto/thestem-115.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 145,
+    name: 'Lip Plumper',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 90000,
+    dp: 75000,
+    image: 'foto/lip-plumper-90.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 146,
+    name: 'VITAme Keana face Mask VC-200',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 120000,
+    dp: 115000,
+    image: 'foto/VITAme-keanafacemask-120.jpeg',
+    status: 'open',
+    badge: null
+  },
+   {
+    id: 147,
+    name: 'Number S Shampoo Blonde',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 85000,
+    dp: 70000,
+    image: 'foto/numberS-shampooblonde-85.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 148,
+    name: 'Kirage Shampoo',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 92000,
+    dp: 80000,
+    image: 'foto/kirage-shampoo-92.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 149,
+    name: 'Non Chemical Sunscreen Prodefense',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 120000,
+    dp: 105000,
+    image: 'foto/nonchemical-sunscreen-120.jpeg',
+    status: 'open',
+    badge: null
+  },
+   {
+    id: 150,
+    name: 'Skin Aqua Moist UV',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 64000,
+    dp: 50000,
+    image: 'foto/skin-aqua-moist-v-90-64.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 151,
+    name: 'Anessa Sunscreen',
+    category: 'Skincare Diskon (Max Order 11 June)',
+    price: 105000,
+    dp: 90000,
+    image: 'foto/Anesa-113-105.jpeg',
+    status: 'open',
+    badge: null
+  },
   
   
   
