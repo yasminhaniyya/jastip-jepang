@@ -959,6 +959,304 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 96,
+    name: 'Gantungan Kunci Sanrio',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/sanrio-ganci.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 97,
+    name: 'Sheetmask',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/masker-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 98,
+    name: 'Cica Body Sheets',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/cica-body-sheets.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 99,
+    name: 'Lipgloss Kyumee',
+    category: 'Things',
+    price: 58000,
+    dp: 40000,
+    image: 'foto/lipgloss-kyumee.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 100,
+    name: 'Kyumee Pallette',
+    category: 'Things',
+    price: 58000,
+    dp: 40000,
+    image: 'foto/kyumee-pallette.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 101,
+    name: 'Compressed Facial Mask isi 14',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/comp-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 102,
+    name: 'Jedai',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/jedai-daiso-2.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 103,
+    name: 'Kyumee Gradation Face Powder',
+    category: 'Things',
+    price: 45000,
+    dp: 30000,
+    image: 'foto/kyumee-gradation.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 104,
+    name: 'Tatakan Sumpit',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/tatakan-sumpit.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 105,
+    name: 'Kotak Wadah',
+    category: 'Things',
+    price: 55000,
+    dp: 40000,
+    image: 'foto/wadah-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 106,
+    name: 'Trial Kit Jojoba Oil',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/travel-kit-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 107,
+    name: 'Wadah Mini',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/wadah-dai.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 108,
+    name: 'Cermin Mini',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/mirror-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 109,
+    name: 'Wadah Onigiri',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/onigiri-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 110,
+    name: 'Bento Kit (Cetakan Nori, Hiasan Bento)',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/bento-kit.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 111,
+    name: 'Alas Makan',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/bento-kain.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 112,
+    name: 'Towel Dish',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/towel-dish.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 113,
+    name: 'Laundry Net',
+    category: 'Things',
+    price: 45000,
+    dp: 30000,
+    image: 'foto/laundry-net.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 114,
+    name: 'Laundry Net Collab Disney',
+    category: 'Things',
+    price: 60000,
+    dp: 45000,
+    image: 'foto/laundry-net-hewan.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 115,
+    name: 'Curtain Lucu',
+    category: 'Things',
+    price: 45000,
+    dp: 30000,
+    image: 'foto/curtain-dai.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 116,
+    name: 'Sandal Jepit Alas Rotan',
+    category: 'Things',
+    price: 57000,
+    dp: 40000,
+    image: 'foto/sandal-dai-4.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 117,
+    name: 'Sandal  Alas Rotan',
+    category: 'Things',
+    price: 57000,
+    dp: 40000,
+    image: 'foto/sandal-dai-3.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 118,
+    name: 'Sandal Alas Rotan',
+    category: 'Things',
+    price: 57000,
+    dp: 40000,
+    image: 'foto/sandal-dai-2.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 119,
+    name: 'Sandal Alas Rotan',
+    category: 'Things',
+    price: 57000,
+    dp: 40000,
+    image: 'foto/sandal-dai.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 120,
+    name: 'Cutting Board',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/cutting-board.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 121,
+    name: 'Magic Resin UV Liquid',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/Magic-resin-uv.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 122,
+    name: 'TWS',
+    category: 'Things',
+    price: 130000,
+    dp: 115000,
+    image: 'foto/tws-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 122,
+    name: 'Bricks',
+    category: 'Things',
+    price: 25000,
+    dp: 15000,
+    image: 'foto/bricks-daiso.jpeg',
+    status: 'open',
+    badge: null
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
   
   
   
