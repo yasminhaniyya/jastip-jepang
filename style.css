@@ -331,22 +331,3 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 8px 18px rgba(255, 122, 162, 0.35);
 }
-.badge.new {
-  background: #B5D4F4;
-  color: #0C447C;
-}
-
-.badge.most-wanted {
-  background: #F4C0D1;
-  color: #72243E;
-}
-
-.badge.best-seller {
-  background: #FFD97D;
-  color: #7A4B00;
-}
-
-.badge.best-price {
-  background: #CDECCF;
-  color: #1F6B2A;
-}
