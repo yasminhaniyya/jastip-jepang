@@ -1533,26 +1533,7 @@ const products = [
     status: 'open',
     badge: null
   },
-  {
-    id: 143,
-    name: 'The Stem Cell Mask',
-    category: 'Skincare Diskon Opening Toko (Max Order 11 June)',
-    price: 115000,
-    dp: 100000,
-    image: 'foto/thestem-115.jpeg',
-    status: 'open',
-    badge: null
-  },
-  {
-    id: 144,
-    name: 'The Stem Cell Mask',
-    category: 'Skincare Diskon Opening Toko (Max Order 11 June)',
-    price: 115000,
-    dp: 100000,
-    image: 'foto/thestem-115.jpeg',
-    status: 'open',
-    badge: null
-  },
+  
   {
     id: 145,
     name: 'Lip Plumper',
