@@ -1249,6 +1249,26 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 128,
+    name: 'Foot Spray',
+    category: 'Things',
+    price: 76000,
+    dp: 55000,
+    image: 'foto/foot-spray-76.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 129,
+    name: 'Sneakers Disinfectant',
+    category: 'Things',
+    price: 82000,
+    dp: 70000,
+    image: 'foto/sneaker-disin-82.jpeg',
+    status: 'open',
+    badge: null
+  },
   // ── Skincare ────────────────────────────────────────────
   
   {
@@ -1260,6 +1280,16 @@ const products = [
     image: 'foto/melano-cc-97k.jpeg',
     status: 'open',
     badge: null
+  },
+    {
+    id: 153,
+    name: 'Keana Rice Pack',
+    category: 'Skincare',
+    price: 190000,
+    dp: 175000,
+    image: 'foto/keana-190.jpeg',
+    status: 'open',
+    badge: "Most Wanted"
   },
   {
     id: 124,
@@ -1292,6 +1322,16 @@ const products = [
     badge: null
   },
   {
+    id: 152,
+    name: 'Roihi Tsuboko Koyo isi 78',
+    category: 'Skincare',
+    price: 120000,
+    dp: 105000,
+    image: 'foto/roihi-isi78-120.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
     id: 127,
     name: 'Lacherie Kit Moist&Toner',
     category: 'Skincare',
@@ -1301,26 +1341,7 @@ const products = [
     status: 'open',
     badge: null
   },
-  {
-    id: 128,
-    name: 'Foot Spray',
-    category: 'Skincare',
-    price: 76000,
-    dp: 55000,
-    image: 'foto/foot-spray-76.jpeg',
-    status: 'open',
-    badge: null
-  },
-  {
-    id: 129,
-    name: 'Sneakers Disinfectant',
-    category: 'Skincare',
-    price: 82000,
-    dp: 70000,
-    image: 'foto/sneaker-disin-82.jpeg',
-    status: 'open',
-    badge: null
-  },
+  
   {
     id: 130,
     name: 'Kose Clear Turn Vitamin Bomb face Mask',
@@ -1533,6 +1554,8 @@ const products = [
     status: 'open',
     badge: null
   },
+
+  // ── Donki ────────────────────────────────────────────
   
   
   
