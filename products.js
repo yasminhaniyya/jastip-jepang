@@ -1332,6 +1332,16 @@ const products = [
     badge: null
   },
   {
+    id: 157,
+    name: 'Fino Hair Mask',
+    category: 'Skincare',
+    price: 120000,
+    dp: 105000,
+    image: 'foto/fino-120.jpeg',
+    status: 'open',
+    badge: "Best Price"
+  },
+  {
     id: 127,
     name: 'Lacherie Kit Moist&Toner',
     category: 'Skincare',
@@ -1341,7 +1351,16 @@ const products = [
     status: 'open',
     badge: null
   },
-  
+   {
+    id: 156,
+    name: 'Retinol Sheet Mask isi 30',
+    category: 'Skincare',
+    price: 95000,
+    dp: 80000,
+    image: 'foto/mask-retinol-95.jpeg',
+    status: 'open',
+    badge: null
+  },
   {
     id: 130,
     name: 'Kose Clear Turn Vitamin Bomb face Mask',
@@ -1432,6 +1451,26 @@ const products = [
     status: 'open',
     badge: null
   },
+   {
+    id: 154,
+    name: 'Anessa Perfect UV Sunscreen',
+    category: 'Skincare',
+    price: 375000,
+    dp: 360000,
+    image: 'foto/aessa-375.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 155,
+    name: 'Biore Sunscreen',
+    category: 'Skincare',
+    price: 120000,
+    dp: 105000,
+    image: 'foto/biore-sunscreen-120.jpeg',
+    status: 'open',
+    badge: null
+  },
  
   {
     id: 140,
@@ -1440,6 +1479,36 @@ const products = [
     price: 85000,
     dp: 70000,
     image: 'foto/ma&me-85.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 158,
+    name: 'Ululis Shampoo Pinkme',
+    category: 'Skincare',
+    price: 165000,
+    dp: 150000,
+    image: 'foto/ululis-pinkme-165.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 159,
+    name: 'Ululis Hair Oil Black',
+    category: 'Skincare',
+    price: 242000,
+    dp: 230000,
+    image: 'foto/ululis-black-230.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 160,
+    name: '&honey Package',
+    category: 'Skincare',
+    price: 170000,
+    dp: 155000,
+    image: 'foto/&honey-package-170.jpeg',
     status: 'open',
     badge: null
   },
