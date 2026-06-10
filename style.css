@@ -175,8 +175,8 @@ body {
 
 .badge.new   { background: #B5D4F4; color: #0C447C; }
 .badge.most.wanted { background: #F4C0D1; color: #72243E; }
-.badge.best-seller { background: #d2f9b4; color: #007a23; }
-.badge.best-price { background: #db92d8; color: #4d1482; }
+.badge.best.seller { background: #d2f9b4; color: #007a23; }
+.badge.best.price { background: #db92d8; color: #4d1482; }
 
 .card-body {
   padding: 10px 12px 12px;
