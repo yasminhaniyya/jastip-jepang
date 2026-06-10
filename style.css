@@ -174,7 +174,7 @@ body {
 }
 
 .badge.new   { background: #B5D4F4; color: #0C447C; }
-.badge.limited { background: #F4C0D1; color: #72243E; }
+.badge.most.wanted { background: #F4C0D1; color: #72243E; }
 
 .card-body {
   padding: 10px 12px 12px;
