@@ -1498,7 +1498,7 @@ const products = [
     category: 'Skincare',
     price: 242000,
     dp: 230000,
-    image: 'foto/ululis-black-230.jpeg',
+    image: 'foto/ululi-black-230.jpeg',
     status: 'open',
     badge: null
   },
