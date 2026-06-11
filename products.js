@@ -1858,16 +1858,6 @@ const products = [
     badge: null
   },
   {
-    id: 187,
-    name: 'Bag Charm Haikyuu Bird',
-    category: 'Merchandise & Collab',
-    price: 85000,
-    dp: 70000,
-    image: 'foto/ganci-haikyuu-85.jpeg',
-    status: 'open',
-    badge: null
-  },
-  {
     id: 188,
     name: 'Anpanman Coin Pocket',
     category: 'Things',
