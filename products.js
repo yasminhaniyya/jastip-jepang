@@ -1163,7 +1163,7 @@ const products = [
   {
     id: 100,
     name: 'Kyumee Pallette',
-    category: 'Things',
+    category: 'Makeup',
     price: 58000,
     dp: 40000,
     image: 'foto/kyumee-pallette.jpeg',
