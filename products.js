@@ -1661,7 +1661,7 @@ const products = [
     category: 'Things',
     price: 180000,
     dp: 165000,
-    image: 'foto/scalp-bruh180.jpeg',
+    image: 'foto/scalp-brush180.jpeg',
     status: 'open',
     badge: null
   },
