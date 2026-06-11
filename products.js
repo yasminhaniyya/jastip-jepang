@@ -1604,9 +1604,21 @@ const products = [
     status: 'open',
     badge: null
   },
+   {
+    id: 161,
+    name: 'UV Sun Stick',
+    category: 'Skincare',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/uv-sun-stick-150.jpeg',
+    status: 'open',
+    badge: null
+  },
 
   // ── Donki ────────────────────────────────────────────
   
+ 
+
   
   
 
