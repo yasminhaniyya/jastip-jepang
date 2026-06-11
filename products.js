@@ -1554,6 +1554,7 @@ const products = [
     status: 'open',
     badge: null
   },
+  // ── Donki ────────────────────────────────────────────
    {
     id: 147,
     name: 'Number S Shampoo Blonde',
@@ -1614,6 +1615,108 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 162,
+    name: 'Pocket Perfume',
+    category: 'Skincare',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/parfum-150.jpeg',
+    status: 'open',
+    badge: null
+  },
+{
+    id: 163,
+    name: 'Totebag Motif',
+    category: 'Things',
+    price: 290000,
+    dp: 275000,
+    image: 'foto/tas-290.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 164,
+    name: 'Lunch Bag',
+    category: 'Things',
+    price: 220000,
+    dp: 205000,
+    image: 'foto/lunch-220.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 165,
+    name: 'Sumpit + Tempat',
+    category: 'Things',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/sumpit-high-150.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 166,
+    name: 'Scalp Headspa Brush',
+    category: 'Things',
+    price: 180000,
+    dp: 165000,
+    image: 'foto/scalp-bruh180.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 167,
+    name: 'Scrub Kaki',
+    category: 'Skincare',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/scalp-bruh180.jpeg',
+    status: 'open',
+    badge: null
+  },
+
+  {
+    id: 168,
+    name: 'Calamee Ice Cooling Square mask 50 pcs',
+    category: 'Skincare',
+    price: 140000,
+    dp: 125000,
+    image: 'foto/calamee-icesquare-50pcs-140.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 169,
+    name: 'Retinol Eye Base Serum',
+    category: 'Skincare',
+    price: 210000,
+    dp: 195000,
+    image: 'foto/retinol-eyex-base-210.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 170,
+    name: 'CICA Acne Patch 72 pcs',
+    category: 'Skincare',
+    price: 97000,
+    dp:80000,
+    image: 'foto/patch-isi72-97.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 171,
+    name: 'Shifure Cleansing Oil',
+    category: 'Skincare',
+    price: 125000,
+    dp:105000,
+    image: 'foto/chifure-cleansing-125.jpeg',
+    status: 'open',
+    badge: null
+  },
+
 
   // ── Donki ────────────────────────────────────────────
   
