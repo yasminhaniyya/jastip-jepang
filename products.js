@@ -1199,6 +1199,16 @@ const products = [
     status: 'open',
     badge: null
   },
+   {
+    id: 187,
+    name: 'Sisir Mion',
+    category: 'Things',
+    price: 140000,
+    dp: 125000,
+    image: 'foto/sisir-mion-140.jpeg',
+    status: 'open',
+    badge: null
+  },
   {
     id: 119,
     name: 'Sandal Alas Rotan',
@@ -1279,6 +1289,7 @@ const products = [
     status: 'open',
     badge: null
   },
+  
   // ── Skincare ────────────────────────────────────────────
   
   {
@@ -1807,6 +1818,178 @@ const products = [
     status: 'open',
     badge: null
   },
+   {
+    id: 189,
+    name: 'Rom&nd Pallette Eyeshadow',
+    category: 'Makeup',
+    price: 230000,
+    dp: 215000,
+    image: 'foto/rom&nd-pallette-eyeshadow-230.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 190,
+    name: 'Medicube SunStick PDRN Collagen',
+    category: 'Skincare',
+    price: 195000,
+    dp: 180000,
+    image: 'foto/medicube-pdrncollagen-sunstick-195.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 191,
+    name: 'Mediheal 30 Sheets',
+    category: 'Skincare',
+    price: 320000,
+    dp: 315000,
+    image: 'foto/mediheal-30sheets-320.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 192,
+    name: 'Medicube PDRN Sheet Mask',
+    category: 'Skincare',
+    price: 58000,
+    dp: 45000,
+    image: 'foto/medicube-pdrn-58.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 193,
+    name: 'Nature Republic Peach PDRN Dew Essence',
+    category: 'Skincare',
+    price: 330000,
+    dp: 315000,
+    image: 'foto/nauture-rep-peachpdrndewessence-330.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 194,
+    name: 'Anua Serum 15+',
+    category: 'Skincare',
+    price: 325000,
+    dp: 305000,
+    image: 'foto/anuaserum15plus-325.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 195,
+    name: 'Anua Sheet Mask 7 Lembar',
+    category: 'Skincare',
+    price: 95000,
+    dp: 80000,
+    image: 'foto/anuaheet-7lembar-95.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 196,
+    name: 'dAlba Tone Up Sun Cream',
+    category: 'Skincare',
+    price: 285000,
+    dp: 270000,
+    image: 'foto/dalba-toneup-285-sun.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 197,
+    name: 'Moncchichi x Blush & Lipgloss Bonus Keyring',
+    category: 'Makeup',
+    price: 220000,
+    dp: 200000,
+    image: 'foto/mocchichixblushlipglosskri210kanan220.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 198,
+    name: 'Shiseido Fino Hair Oil Premium Touch',
+    category: 'Skincare',
+    price: 165000,
+    dp: 150000,
+    image: 'foto/shiseido-fino-165.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 199,
+    name: 'Maskara Heroine',
+    category: 'Makeup',
+    price: 124000,
+    dp: 110000,
+    image: 'foto/maskara-heroine-124.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 200,
+    name: 'Wosado Bulu Mata Magnetik (Isi + Aplikator) ',
+    category: 'Skincare',
+    price: 510000,
+    dp: 495000,
+    image: 'foto/wosado-bulmatmagentik-510-aplikator.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 201,
+    name: 'Daisy Doll by Mary Quant Powder Blush & Highlighter ',
+    category: 'Makeup',
+    price: 215000,
+    dp: 200000,
+    image: 'foto/daisydoll-bymryquant-powderblush-215.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 202,
+    name: 'Purukiss Jelly Lip Mask',
+    category: 'Skincare',
+    price: 95000,
+    dp: 80000,
+    image: 'foto/purukiss-jellylipmask-95.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 203,
+    name: 'Vecci Pallette',
+    category: 'Skincare',
+    price: 180000,
+    dp: 165000,
+    image: 'foto/vecci-pallette-180.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 204,
+    name: 'SANA Namerakahonpo Eye Cream',
+    category: 'Skincare',
+    price: 130000,
+    dp: 115000,
+    image: 'foto/SANA-eyecream-130.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 205,
+    name: 'Keyring',
+    category: 'Things',
+    price: 130000,
+    dp: 115000,
+    image: 'foto/Keyring-130.jpeg',
+    status: 'open',
+    badge: null
+  },
+  
+  // ── Merchandise & Collab ────────────────────────────────────────────
   {
     id: 181,
     name: 'Merchandise Haikyuu Puzzle Acrylic',
@@ -1861,20 +2044,20 @@ const products = [
   {
     id: 188,
     name: 'Anpanman Coin Pocket',
-    category: 'Things',
+    category: 'Merchandise & Collab',
     price: 150000,
     dp: 125000,
     image: 'foto/anpanman-pocket-150.jpeg',
     status: 'open',
     badge: null
   },
-  {
-    id: 187,
-    name: 'Sisir Mion',
-    category: 'Things',
+ {
+    id: 205,
+    name: 'SEVENTEEN x Sanrio',
+    category: 'Merchandise & Collab',
     price: 140000,
     dp: 125000,
-    image: 'foto/sisir-mion-140.jpeg',
+    image: 'foto/seventeenxsanrio-155.jpeg',
     status: 'open',
     badge: null
   },
