@@ -451,6 +451,77 @@ const products = [
     status: 'open',
     badge: null
   },
+  {
+    id: 206,
+    name: 'Knit Cardigan',
+    category: 'Uniqlo',
+    price: 420000,
+    dp: 405000,
+    image: 'foto/cardi-knit-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 207,
+    name: 'Cardigan',
+    category: 'Uniqlo',
+    price: 420000,
+    dp: 405000,
+    image: 'foto/cardi-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 208,
+    name: 'Cardigan Pola',
+    category: 'Uniqlo',
+    price: 420000,
+    dp: 405000,
+    image: 'foto/cardi-pola-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 209,
+    name: 'Waffle Henley Neck Long',
+    category: 'Uniqlo',
+    price: 275000,
+    dp: 255000,
+    image: 'foto/waffle-henley-neck-long-275.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 210,
+    name: 'Kaus Moncchichi',
+    category: 'Uniqlo',
+    price: 280000,
+    dp: 265000,
+    image: 'foto/mocchichicollab280.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 211,
+    name: 'Knitwear',
+    category: 'Uniqlo',
+    price: 520000,
+    dp: 505000,
+    image: 'foto/knitwear-520.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 212,
+    name: 'Polkadot Skirt',
+    category: 'Uniqlo',
+    price: 420000,
+    dp: 405000,
+    image: 'foto/polakdot-skirt-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+
   
   
   
@@ -515,6 +586,36 @@ const products = [
     image: 'foto/mesh-ballet-sneakers.jpeg',
     status: 'open',
     badge: 'Best Seller'
+  },
+  {
+    id: 213,
+    name: 'Ballet Lace',
+    category: 'GU',
+    price: 420000,
+    dp: 410000,
+    image: 'foto/laceup-ballet-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 214,
+    name: 'Double Strap Ballet Sneaker',
+    category: 'GU',
+    price: 420000,
+    dp: 410000,
+    image: 'foto/double-strap-ballet-snealer-420.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 220,
+    name: 'Nylon Combo Flat',
+    category: 'GU',
+    price: 420000,
+    dp: 405000,
+    image: 'foto/bylon-combo-flat-420.jpeg',
+    status: 'open',
+    badge: 'SALE'
   },
   {
     id: 51,
@@ -797,6 +898,56 @@ const products = [
     image: 'foto/ballon-tunik.jpeg',
     status: 'open',
     badge: null
+  },
+  {
+    id: 215,
+    name: 'Double Belt Mules',
+    category: 'GU',
+    price: 145000,
+    dp: 130000,
+    image: 'foto/double-belt-mules-145.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 216,
+    name: 'SALE silinder bag',
+    category: 'GU',
+    price: 145000,
+    dp: 130000,
+    image: 'foto/SALE-tas-145.jpeg',
+    status: 'open',
+    badge: 'SALE'
+  },
+  {
+    id: 217,
+    name: 'SALE  bag',
+    category: 'GU',
+    price: 255000,
+    dp: 240000,
+    image: 'foto/SALE-255.jpeg',
+    status: 'open',
+    badge: 'SALE'
+  },
+  {
+    id: 218,
+    name: 'SALE  tas',
+    category: 'GU',
+    price: 280000,
+    dp: 265000,
+    image: 'foto/sale-tas-280.jpeg',
+    status: 'open',
+    badge: 'SALE'
+  },
+  {
+    id: 219,
+    name: 'Blouse Kerah Sailor',
+    category: 'GU',
+    price: 280000,
+    dp: 265000,
+    image: 'foto/blouse-kerash-sailor-280.jpeg',
+    status: 'open',
+    badge: 'SALE'
   },
   // ── Things ────────────────────────────────────────────
   {
