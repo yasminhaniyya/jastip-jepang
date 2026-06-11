@@ -832,7 +832,7 @@ const products = [
   {
     id: 84,
     name: 'Pillow cover Disney Collab',
-    category: 'Things',
+    category: 'Merchandise & Collab',
     price: 55000,
     dp: 40000,
     image: 'foto/pillow-cover.jpeg',
@@ -962,7 +962,7 @@ const products = [
   {
     id: 96,
     name: 'Gantungan Kunci Sanrio',
-    category: 'Things',
+    category: 'Merchandise & Collab',
     price: 25000,
     dp: 15000,
     image: 'foto/sanrio-ganci.jpeg',
@@ -1142,7 +1142,7 @@ const products = [
   {
     id: 114,
     name: 'Laundry Net Collab Disney',
-    category: 'Things',
+    category: 'Merchandise & Collab',
     price: 60000,
     dp: 45000,
     image: 'foto/laundry-net-hewan.jpeg',
@@ -1708,7 +1708,7 @@ const products = [
   },
   {
     id: 171,
-    name: 'Shifure Cleansing Oil',
+    name: 'Chifure Cleansing Oil',
     category: 'Skincare',
     price: 125000,
     dp:105000,
@@ -1716,7 +1716,177 @@ const products = [
     status: 'open',
     badge: null
   },
-
+  {
+    id: 172,
+    name: 'Anua Serum 77+',
+    category: 'Skincare',
+    price: 330000,
+    dp:315000,
+    image: 'foto/anua-77plus-330.jpeg',
+    status: 'open',
+    badge: null
+  },
+{
+    id: 173,
+    name: 'Anua 1+1 (15+ dan 100+)',
+    category: 'Skincare',
+    price: 350000,
+    dp:335000,
+    image: 'foto/anuas1plus1-350.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 174,
+    name: 'Anua 100+',
+    category: 'Skincare',
+    price: 360000,
+    dp:345000,
+    image: 'foto/anus100plus-360.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 175,
+    name: 'Hadalabo Gokyujun Anti Aging',
+    category: 'Skincare',
+    price: 165000,
+    dp:350000,
+    image: 'foto/hadalabo-gokyujun-165.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 176,
+    name: 'Shampoo Melt Refill',
+    category: 'Skincare',
+    price: 180000,
+    dp:165000,
+    image: 'foto/shanpoo-meltrefll-180.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 177,
+    name: 'Shampoo Melt Refill Treatment',
+    category: 'Skincare',
+    price: 180000,
+    dp:165000,
+    image: 'foto/shampoo-treatment-180.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 178,
+    name: 'Shampoo Melt Deep Shampoo',
+    category: 'Skincare',
+    price: 180000,
+    dp:165000,
+    image: 'foto/deepshampoo-180.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 179,
+    name: 'Night Repair Treatment',
+    category: 'Skincare',
+    price: 155000,
+    dp:140000,
+    image: 'foto/nightrepair-155.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 180,
+    name: 'Bricks',
+    category: 'Things',
+    price: 135000,
+    dp:120000,
+    image: 'foto/bricks-135.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 181,
+    name: 'Merchandise Haikyuu Puzzle Acrylic',
+    category: 'Merchandise & Collab',
+    price: 205000,
+    dp:195000,
+    image: 'foto/merch-haikyuu-puzzleacrylic-205.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 182,
+    name: 'UNO Pokemon',
+    category: 'Merchandise & Collab',
+    price: 150000,
+    dp: 135000,
+    image: 'foto/uno-pokemon-150.jpeg',
+    status: 'open',
+    badge: null
+  },
+  
+  {
+    id: 184,
+    name: 'UNO Conan, Bluelock & Attack on Titan',
+    category: 'Merchandise & Collab',
+    price: 205000,
+    dp: 195000,
+    image: 'foto/uno-aot-bluelock-conan-205.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 185,
+    name: 'Bricks Haikyuu',
+    category: 'Merchandise & Collab',
+    price: 230000,
+    dp: 215000,
+    image: 'foto/bricks-haikyuu-230.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 186,
+    name: 'Bag Charm Haikyuu Bird',
+    category: 'Merchandise & Collab',
+    price: 85000,
+    dp: 70000,
+    image: 'foto/ganci-haikyuu-85.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 187,
+    name: 'Bag Charm Haikyuu Bird',
+    category: 'Merchandise & Collab',
+    price: 85000,
+    dp: 70000,
+    image: 'foto/ganci-haikyuu-85.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 188,
+    name: 'Anpanman Coin Pocket',
+    category: 'Things',
+    price: 150000,
+    dp: 125000,
+    image: 'foto/anpanman-pocket-150.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
+    id: 187,
+    name: 'Sisir Mion',
+    category: 'Things',
+    price: 140000,
+    dp: 125000,
+    image: 'foto/sisir-mion-140.jpeg',
+    status: 'open',
+    badge: null
+  },
 
   // ── Donki ────────────────────────────────────────────
   
