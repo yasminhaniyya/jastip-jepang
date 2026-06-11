@@ -98,6 +98,16 @@ const products = [
     badge: 'Best Seller'
   },
   {
+    id: 141,
+    name: 'The Stem Cell Mask',
+    category: 'Skincare Diskon Opening Toko (Max Order 11 June)',
+    price: 115000,
+    dp: 100000,
+    image: 'foto/thestem-115.jpeg',
+    status: 'open',
+    badge: null
+  },
+  {
     id: 17,
     name: 'Zero Butter (Sugar free)',
     category: 'Snacks',
@@ -1513,16 +1523,7 @@ const products = [
     badge: null
   },
   // ── Skincare Diskon ────────────────────────────────────────────
-  {
-    id: 141,
-    name: 'The Stem Cell Mask',
-    category: 'Skincare Diskon Opening Toko (Max Order 11 June)',
-    price: 115000,
-    dp: 100000,
-    image: 'foto/thestem-115.jpeg',
-    status: 'open',
-    badge: null
-  },
+  
   {
     id: 142,
     name: 'The Stem Cell Mask Black',
