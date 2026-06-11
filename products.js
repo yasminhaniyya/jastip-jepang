@@ -1875,7 +1875,7 @@ const products = [
     price: 140000,
     dp: 125000,
     image: 'foto/sisir-mion-140.jpeg',
-    status: 'closed',
+    status: 'open',
     badge: null
   },
 
