@@ -1834,7 +1834,7 @@ const products = [
     category: 'Skincare',
     price: 150000,
     dp: 135000,
-    image: 'foto/scalp-bruh180.jpeg',
+    image: 'foto/scrubkaki-150.jpeg',
     status: 'open',
     badge: null
   },
