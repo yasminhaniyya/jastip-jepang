@@ -734,7 +734,7 @@ const products = [
     price: 305000,
     dp: 295000,
     image: 'foto/puff-sweat.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
