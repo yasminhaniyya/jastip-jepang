@@ -104,7 +104,7 @@ const products = [
     price: 115000,
     dp: 100000,
     image: 'foto/thestem-115.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
