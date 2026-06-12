@@ -348,7 +348,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/jaket-denim.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
     {
@@ -378,7 +378,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/jaket-krem.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
    {
