@@ -1495,7 +1495,7 @@ const products = [
   },
   {
     id: 152,
-    name: 'Roihi Tsuboko Koyo isi 78',
+    name: 'Roihi Tsuboko Koyo isi 156',
     category: 'Skincare',
     price: 120000,
     dp: 105000,
