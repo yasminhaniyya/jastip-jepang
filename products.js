@@ -1153,7 +1153,7 @@ const products = [
   {
     id: 99,
     name: 'Lipgloss Kyumee',
-    category: 'Things',
+    category: 'Makeup',
     price: 58000,
     dp: 40000,
     image: 'foto/lipgloss-kyumee.jpeg',
@@ -1693,7 +1693,7 @@ const products = [
     price: 120000,
     dp: 105000,
     image: 'foto/thestem-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
@@ -1704,7 +1704,7 @@ const products = [
     price: 90000,
     dp: 75000,
     image: 'foto/lip-plumper-90.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1714,7 +1714,7 @@ const products = [
     price: 120000,
     dp: 115000,
     image: 'foto/VITAme-keanafacemask-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   // ── Donki ────────────────────────────────────────────
@@ -1725,7 +1725,7 @@ const products = [
     price: 85000,
     dp: 70000,
     image: 'foto/numberS-shampooblonde-85.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1735,7 +1735,7 @@ const products = [
     price: 92000,
     dp: 80000,
     image: 'foto/kirage-shampoo-92.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1745,7 +1745,7 @@ const products = [
     price: 120000,
     dp: 105000,
     image: 'foto/nonchemical-sunscreen-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1755,7 +1755,7 @@ const products = [
     price: 64000,
     dp: 50000,
     image: 'foto/skin-aqua-moist-v-90-64.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1765,7 +1765,7 @@ const products = [
     price: 105000,
     dp: 90000,
     image: 'foto/Anesa-113-105.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
