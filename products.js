@@ -674,7 +674,7 @@ const products = [
     price: 240000,
     dp: 230000,
     image: 'foto/circular-midi.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
