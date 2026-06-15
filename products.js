@@ -131,8 +131,8 @@ const products = [
     id: 19,
     name: 'Almond Meiji Matcha',
     category: 'Snacks',
-    price: 38000,
-    dp: 20000,
+    price: 68000,
+    dp: 50000,
     image: 'foto/almond-meiji-matcha.jpeg',
     status: 'open',
     badge: null
