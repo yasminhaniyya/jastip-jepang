@@ -846,8 +846,8 @@ const products = [
     price: 245000,
     dp: 230000,
     image: 'foto/pepium.jpeg',
-    status: 'open',
-    badge: closed
+    status: 'closed',
+    badge: null
   },
   {
     id: 77,
