@@ -358,7 +358,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/dry-pique.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -368,7 +368,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/uv-kids.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -388,7 +388,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/airism-woman.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -398,7 +398,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/shirring-sleeve.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -408,7 +408,7 @@ const products = [
     price: 245000,
     dp: 230000,
     image: 'foto/mini-tshirt.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -418,7 +418,7 @@ const products = [
     price: 520000,
     dp: 505000,
     image: 'foto/tiered-maxi-skirt-2.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -428,7 +428,7 @@ const products = [
     price: 195000,
     dp: 185000,
     image: 'foto/shirring-sleeve.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
@@ -438,7 +438,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/ribbed-frill.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -448,7 +448,7 @@ const products = [
     price: 360000,
     dp: 345000,
     image: 'foto/methal-button.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -458,7 +458,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/cardi-knit-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -468,7 +468,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/cardi-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -478,7 +478,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/cardi-pola-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -488,7 +488,7 @@ const products = [
     price: 275000,
     dp: 255000,
     image: 'foto/waffle-henley-neck-long-275.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -498,7 +498,7 @@ const products = [
     price: 280000,
     dp: 265000,
     image: 'foto/mocchichicollab280.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -508,7 +508,7 @@ const products = [
     price: 520000,
     dp: 505000,
     image: 'foto/knitwear-520.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -518,7 +518,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/polakdot-skirt-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 
@@ -534,7 +534,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/mesh-ballet-2.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Most Wanted'
   },
   {
@@ -544,7 +544,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/strapt-ballet.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -554,7 +554,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/strapt-ballet-2.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -564,7 +564,7 @@ const products = [
    price: 420000,
     dp: 410000,
     image: 'foto/ballet-sneakers.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -574,7 +574,7 @@ const products = [
     price: 190000,
     dp: 175000,
     image: 'foto/camisole-isi3.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -584,7 +584,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/mesh-ballet-sneakers.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -594,7 +594,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/laceup-ballet-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -604,7 +604,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/double-strap-ballet-snealer-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -614,7 +614,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/bylon-combo-flat-420.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
@@ -624,7 +624,7 @@ const products = [
     price: 305000,
     dp: 300000,
     image: 'foto/ribbed-boat.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -634,7 +634,7 @@ const products = [
     price: 300000,
     dp: 290000,
     image: 'foto/fromt-button.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -644,7 +644,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/pull-sweat.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -654,7 +654,7 @@ const products = [
     price: 360000,
     dp: 345000,
     image: 'foto/sheer-ribbed.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -664,7 +664,7 @@ const products = [
     price: 195000,
     dp: 180000,
     image: 'foto/two-toned.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
@@ -684,7 +684,7 @@ const products = [
     price: 250000,
     dp:240000,
     image: 'foto/dropped-flared.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -694,7 +694,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/lace-frilled.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -704,7 +704,7 @@ const products = [
     price: 305000,
     dp: 295000,
     image: 'foto/washable.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -714,7 +714,7 @@ const products = [
     price: 305000,
     dp: 295000,
     image: 'foto/bubble-blouse.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -724,7 +724,7 @@ const products = [
     price: 300000,
     dp: 295000,
     image: 'foto/collarless.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -744,7 +744,7 @@ const products = [
     price: 220000,
     dp: 210000,
     image: 'foto/lounge-set.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -754,7 +754,7 @@ const products = [
     price: 360000,
     dp: 345000,
     image: 'foto/cotton-blend-dor.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -764,7 +764,7 @@ const products = [
     price: 360000,
     dp: 34500,
     image: 'foto/satin-pajamas.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    
@@ -775,7 +775,7 @@ const products = [
     price: 305000,
     dp: 295000,
     image: 'foto/lace-blouse.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
@@ -786,7 +786,7 @@ const products = [
     price: 305000,
     dp: 295000,
     image: 'foto/washable-polo.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -796,7 +796,7 @@ const products = [
     price: 525000,
     dp: 510000,
     image: 'foto/pocketable.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -806,7 +806,7 @@ const products = [
     price: 525000,
     dp: 510000,
     image: 'foto/pocketable.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Most Wanted'
   },
   {
@@ -816,7 +816,7 @@ const products = [
     price: 525000,
     dp: 515000,
     image: 'foto/pocketable-yellow.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -826,7 +826,7 @@ const products = [
     price: 245000,
     dp: 230000,
     image: 'foto/shoulder-bag.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -836,7 +836,7 @@ const products = [
     price: 360000,
     dp: 350000,
     image: 'foto/loop-yarn.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -847,7 +847,7 @@ const products = [
     dp: 230000,
     image: 'foto/pepium.jpeg',
     status: 'open',
-    badge: null
+    badge: closed
   },
   {
     id: 77,
@@ -856,7 +856,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/cargi.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
