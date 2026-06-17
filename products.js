@@ -866,7 +866,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/ballon-pants.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -876,7 +876,7 @@ const products = [
     price: 145000,
     dp: 130000,
     image: 'foto/shrts.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -886,7 +886,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/tunik.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -896,7 +896,7 @@ const products = [
     price: 420000,
     dp: 410000,
     image: 'foto/ballon-tunik.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -906,7 +906,7 @@ const products = [
     price: 145000,
     dp: 130000,
     image: 'foto/double-belt-mules-145.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -916,7 +916,7 @@ const products = [
     price: 145000,
     dp: 130000,
     image: 'foto/SALE-tas-145.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
@@ -926,7 +926,7 @@ const products = [
     price: 255000,
     dp: 240000,
     image: 'foto/SALE-255.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
