@@ -936,7 +936,7 @@ const products = [
     price: 280000,
     dp: 265000,
     image: 'foto/sale-tas-280.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   {
@@ -946,7 +946,7 @@ const products = [
     price: 280000,
     dp: 265000,
     image: 'foto/blouse-kerash-sailor-280.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
   // ── Things ────────────────────────────────────────────
