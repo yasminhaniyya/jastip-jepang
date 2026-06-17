@@ -268,7 +268,7 @@ const products = [
     price: 520000,
     dp: 515000,
     image: 'foto/tiered-maxi-skirt.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'New'
   },
   {
@@ -278,7 +278,7 @@ const products = [
     price: 220000,
     dp: 205000,
     image: 'foto/airism-shirt.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
  {
@@ -288,7 +288,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/bag-sale-price.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'SALE'
   },
    {
@@ -298,7 +298,7 @@ const products = [
     price: 305000,
     dp: 290000,
     image: 'foto/sweater.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -308,7 +308,7 @@ const products = [
     price: 220000,
     dp: 205000,
     image: 'foto/inner-airism.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -318,7 +318,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/polo-uniqlo.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -328,7 +328,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/jaket-uv.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -338,7 +338,7 @@ const products = [
     price: 420000,
     dp: 405000,
     image: 'foto/airism-pique.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
