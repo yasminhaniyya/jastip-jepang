@@ -2202,7 +2202,16 @@ const products = [
     status: 'open',
     badge: null
   },
- 
+ {
+    id: 205,
+    name: 'SEVENTEEN x Sanrio',
+    category: 'Merchandise & Collab',
+    price: 140000,
+    dp: 125000,
+    image: 'foto/seventeenxsanrio-155.jpeg',
+    status: 'open',
+    badge: null
+  },
 
   // ── Donki ────────────────────────────────────────────
   
