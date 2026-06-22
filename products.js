@@ -1007,7 +1007,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/keyring.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -1017,7 +1017,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/mini-pouch.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1027,7 +1027,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/lunch.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1037,7 +1037,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/hairclip.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1047,7 +1047,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/aksesoris-hair.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1057,7 +1057,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/kauskaki.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1067,7 +1067,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/oshikatsu.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1077,7 +1077,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/eye.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1087,7 +1087,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/stamp.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1097,7 +1097,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/kipas.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1107,7 +1107,7 @@ const products = [
     price: 55000,
     dp: 45000,
     image: 'foto/pet-clothing.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1117,7 +1117,7 @@ const products = [
     price: 55000,
     dp: 45000,
     image: 'foto/topi.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1127,7 +1127,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/sanrio-ganci.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1137,7 +1137,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/masker-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1147,7 +1147,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/cica-body-sheets.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1157,7 +1157,7 @@ const products = [
     price: 58000,
     dp: 40000,
     image: 'foto/lipgloss-kyumee.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1167,7 +1167,7 @@ const products = [
     price: 58000,
     dp: 40000,
     image: 'foto/kyumee-pallette.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1177,7 +1177,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/comp-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1187,7 +1187,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/jedai-daiso-2.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
