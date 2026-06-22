@@ -1397,7 +1397,7 @@ const products = [
     price: 130000,
     dp: 115000,
     image: 'foto/tws-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1407,7 +1407,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/bricks-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1417,7 +1417,7 @@ const products = [
     price: 210000,
     dp: 200000,
     image: 'foto/wet-brush-210.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1427,7 +1427,7 @@ const products = [
     price: 76000,
     dp: 55000,
     image: 'foto/foot-spray-76.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1437,7 +1437,7 @@ const products = [
     price: 82000,
     dp: 70000,
     image: 'foto/sneaker-disin-82.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
@@ -1450,7 +1450,7 @@ const products = [
     price: 97000,
     dp: 80000,
     image: 'foto/melano-cc-97k.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
