@@ -1197,7 +1197,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/kyumee-gradation.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1207,7 +1207,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/tatakan-sumpit.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1217,7 +1217,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/wadah-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1228,7 +1228,7 @@ const products = [
     dp: 15000,
     image: 'foto/travel-kit-daiso.jpeg',
     status: 'open',
-    badge: null
+    badge: closed
   },
   {
     id: 107,
@@ -1237,7 +1237,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/wadah-dai.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1247,7 +1247,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/mirror-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1257,7 +1257,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/onigiri-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1267,7 +1267,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/bento-kit.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1277,7 +1277,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/bento-kain.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1287,7 +1287,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/towel-dish.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1297,7 +1297,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/laundry-net.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1307,7 +1307,7 @@ const products = [
     price: 60000,
     dp: 45000,
     image: 'foto/laundry-net-hewan.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1317,7 +1317,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/curtain-dai.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1327,7 +1327,7 @@ const products = [
     price: 57000,
     dp: 40000,
     image: 'foto/sandal-dai-4.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1337,7 +1337,7 @@ const products = [
     price: 57000,
     dp: 40000,
     image: 'foto/sandal-dai-3.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1347,7 +1347,7 @@ const products = [
     price: 57000,
     dp: 40000,
     image: 'foto/sandal-dai-2.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1357,7 +1357,7 @@ const products = [
     price: 140000,
     dp: 125000,
     image: 'foto/sisir-mion-140.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1367,7 +1367,7 @@ const products = [
     price: 57000,
     dp: 40000,
     image: 'foto/sandal-dai.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1377,7 +1377,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/cutting-board.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1387,7 +1387,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/Magic-resin-uv.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
