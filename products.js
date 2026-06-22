@@ -194,7 +194,7 @@ const products = [
     price: 117000,
     dp: 100000,
     image: 'foto/matcha-uji-double-rich.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -204,7 +204,7 @@ const products = [
     price: 112000,
     dp: 100000,
     image: 'foto/matcha-uji-rich.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -957,7 +957,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/sumpit.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -967,7 +967,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/bag-mini.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
@@ -977,7 +977,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/sandal.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -987,7 +987,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/box-serbaguna.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -997,7 +997,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/pillow-cover.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2199,7 +2199,7 @@ const products = [
     price: 150000,
     dp: 125000,
     image: 'foto/anpanman-pocket-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
  {
@@ -2209,7 +2209,7 @@ const products = [
     price: 140000,
     dp: 125000,
     image: 'foto/seventeenxsanrio-155.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 
