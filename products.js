@@ -1926,7 +1926,7 @@ const products = [
     price: 180000,
     dp:165000,
     image: 'foto/shanpoo-meltrefll-180.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1936,7 +1936,7 @@ const products = [
     price: 180000,
     dp:165000,
     image: 'foto/shampoo-treatment-180.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1946,7 +1946,7 @@ const products = [
     price: 180000,
     dp:165000,
     image: 'foto/deepshampoo-180.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1956,7 +1956,7 @@ const products = [
     price: 155000,
     dp:140000,
     image: 'foto/nightrepair-155.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1966,7 +1966,7 @@ const products = [
     price: 135000,
     dp:120000,
     image: 'foto/bricks-135.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
