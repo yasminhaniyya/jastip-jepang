@@ -1227,7 +1227,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/travel-kit-daiso.jpeg',
-    status: 'open',
+    status: 'daiso',
     badge: closed
   },
   {
