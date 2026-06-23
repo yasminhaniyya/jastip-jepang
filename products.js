@@ -1460,7 +1460,7 @@ const products = [
     price: 190000,
     dp: 175000,
     image: 'foto/keana-190.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: "Most Wanted"
   },
   {
@@ -1470,7 +1470,7 @@ const products = [
     price: 105000,
     dp: 90000,
     image: 'foto/sheet-keana-rice-105.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: "Best Seller"
   },
   {
@@ -1480,7 +1480,7 @@ const products = [
     price: 112000,
     dp: 100000,
     image: 'foto/nivea-lip-112.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
@@ -1490,7 +1490,7 @@ const products = [
     price: 25000,
     dp: 15000,
     image: 'foto/bricks-daiso.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1500,7 +1500,7 @@ const products = [
     price: 120000,
     dp: 105000,
     image: 'foto/roihi-isi78-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1510,7 +1510,7 @@ const products = [
     price: 120000,
     dp: 105000,
     image: 'foto/fino-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: "Best Price"
   },
   {
@@ -1520,7 +1520,7 @@ const products = [
     price: 135000,
     dp: 120000,
     image: 'foto/lacherie-135.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1530,7 +1530,7 @@ const products = [
     price: 95000,
     dp: 80000,
     image: 'foto/mask-retinol-95.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
