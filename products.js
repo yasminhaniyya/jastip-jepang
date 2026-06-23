@@ -1976,7 +1976,7 @@ const products = [
     price: 230000,
     dp: 215000,
     image: 'foto/rom&nd-pallette-eyeshadow-230.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1986,7 +1986,7 @@ const products = [
     price: 195000,
     dp: 180000,
     image: 'foto/medicube-pdrncollagen-sunstick-195.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1996,7 +1996,7 @@ const products = [
     price: 320000,
     dp: 315000,
     image: 'foto/mediheal-30sheets-320.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2006,7 +2006,7 @@ const products = [
     price: 58000,
     dp: 45000,
     image: 'foto/medicube-pdrn-58.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2016,7 +2016,7 @@ const products = [
     price: 330000,
     dp: 315000,
     image: 'foto/nauture-rep-peachpdrndewessence-330.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2026,7 +2026,7 @@ const products = [
     price: 325000,
     dp: 305000,
     image: 'foto/anuaserum15plus-325.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2036,7 +2036,7 @@ const products = [
     price: 95000,
     dp: 80000,
     image: 'foto/anuaheet-7lembar-95.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2046,7 +2046,7 @@ const products = [
     price: 285000,
     dp: 270000,
     image: 'foto/dalba-toneup-285-sun.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2056,7 +2056,7 @@ const products = [
     price: 220000,
     dp: 200000,
     image: 'foto/mocchichixblushlipglosskri210kanan220.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2066,7 +2066,7 @@ const products = [
     price: 165000,
     dp: 150000,
     image: 'foto/shiseido-fino-165.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2076,7 +2076,7 @@ const products = [
     price: 124000,
     dp: 110000,
     image: 'foto/maskara-heroine-124.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2086,7 +2086,7 @@ const products = [
     price: 510000,
     dp: 495000,
     image: 'foto/wosado-bulmatmagentik-510-aplikator.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2096,7 +2096,7 @@ const products = [
     price: 215000,
     dp: 200000,
     image: 'foto/daisydoll-bymryquant-powderblush-215.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2106,7 +2106,7 @@ const products = [
     price: 95000,
     dp: 80000,
     image: 'foto/purukiss-jellylipmask-95.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
