@@ -14,7 +14,7 @@ const products = [
     price: 35000,
     dp: 20000,
     image: 'foto/ghana-ori.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -24,7 +24,7 @@ const products = [
     price: 58000,
     dp: 40000,
     image: 'foto/ghana-premium.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -34,7 +34,7 @@ const products = [
     price: 42000,
     dp: 30000,
     image: 'foto/kuromi-coklat-nonhalal.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
@@ -44,7 +44,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/matcha-chocolate-keping-nonhalal.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -54,7 +54,7 @@ const products = [
     price: 40000,
     dp: 30000,
     image: 'foto/alfort-mini-chocolate-ori.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -64,7 +64,7 @@ const products = [
     price: 38000,
     dp: 20000,
     image: 'foto/dars-chocolate-bar.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -74,7 +74,7 @@ const products = [
     price: 38000,
     dp: 20000,
     image: 'foto/dars-strawberry.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -84,7 +84,7 @@ const products = [
     price: 58000,
     dp: 40000,
     image: 'foto/macadamia-almond-ori.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -94,7 +94,7 @@ const products = [
     price: 60000,
     dp: 45000,
     image: 'foto/meiji-matcha-strawberry-better.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -114,7 +114,7 @@ const products = [
     price: 60000,
     dp: 45000,
     image: 'foto/zero-butter.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -124,7 +124,7 @@ const products = [
     price: 60000,
     dp: 45000,
     image: 'foto/biskuit-lotte.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -134,7 +134,7 @@ const products = [
     price: 68000,
     dp: 50000,
     image: 'foto/almond-meiji-matcha.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -144,7 +144,7 @@ const products = [
     price: 73000,
     dp: 55000,
     image: 'foto/almond-meiji-ori.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -154,7 +154,7 @@ const products = [
     price: 68000,
     dp: 50000,
     image: 'foto/kitkat.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -164,7 +164,7 @@ const products = [
     price: 62000,
     dp: 50000,
     image: 'foto/alfort-big-pack.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -174,7 +174,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/black-thunder-big-pack.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -184,7 +184,7 @@ const products = [
     price: 72000,
     dp: 60000,
     image: 'foto/meltykiss-big-pack.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
@@ -214,7 +214,7 @@ const products = [
     price: 45000,
     dp: 30000,
     image: 'foto/Ghana-matcha.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -224,7 +224,7 @@ const products = [
     price: 41000,
     dp: 30000,
     image: 'foto/ghana-ripple.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -234,7 +234,7 @@ const products = [
     price: 38000,
     dp: 25000,
     image: 'foto/crunky.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -244,7 +244,7 @@ const products = [
     price: 60000,
     dp: 45000,
     image: 'foto/ghana-keping.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
     {
@@ -254,7 +254,7 @@ const products = [
     price:44000,
     dp: 30000,
     image: 'foto/kinoko-no-yama.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
