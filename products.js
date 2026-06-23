@@ -1805,7 +1805,7 @@ const products = [
     price: 220000,
     dp: 205000,
     image: 'foto/lunch-220.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1815,7 +1815,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/sumpit-high-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1825,7 +1825,7 @@ const products = [
     price: 180000,
     dp: 165000,
     image: 'foto/scalp-brush180.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1835,7 +1835,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/scrubkaki-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 
@@ -1846,7 +1846,7 @@ const products = [
     price: 140000,
     dp: 125000,
     image: 'foto/calamee-icesquare-50pcs-140.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1856,7 +1856,7 @@ const products = [
     price: 210000,
     dp: 195000,
     image: 'foto/retinol-eyex-base-210.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1866,7 +1866,7 @@ const products = [
     price: 97000,
     dp:80000,
     image: 'foto/patch-isi72-97.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1876,7 +1876,7 @@ const products = [
     price: 125000,
     dp:105000,
     image: 'foto/chifure-cleansing-125.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1886,7 +1886,7 @@ const products = [
     price: 330000,
     dp:315000,
     image: 'foto/anua-77plus-330.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
@@ -1896,7 +1896,7 @@ const products = [
     price: 350000,
     dp:335000,
     image: 'foto/anuas1plus1-350.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1906,7 +1906,7 @@ const products = [
     price: 360000,
     dp:345000,
     image: 'foto/anus100plus-360.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1916,7 +1916,7 @@ const products = [
     price: 165000,
     dp:350000,
     image: 'foto/hadalabo-gokyujun-165.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
