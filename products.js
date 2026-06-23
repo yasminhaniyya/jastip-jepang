@@ -2116,7 +2116,7 @@ const products = [
     price: 180000,
     dp: 165000,
     image: 'foto/vecci-pallette-180.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2126,7 +2126,7 @@ const products = [
     price: 130000,
     dp: 115000,
     image: 'foto/SANA-eyecream-130.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2136,7 +2136,7 @@ const products = [
     price: 130000,
     dp: 115000,
     image: 'foto/Keyring-130.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
@@ -2148,7 +2148,7 @@ const products = [
     price: 205000,
     dp:195000,
     image: 'foto/merch-haikyuu-puzzleacrylic-205.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2158,7 +2158,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/uno-pokemon-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   
@@ -2169,7 +2169,7 @@ const products = [
     price: 205000,
     dp: 195000,
     image: 'foto/uno-aot-bluelock-conan-205.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2179,7 +2179,7 @@ const products = [
     price: 230000,
     dp: 215000,
     image: 'foto/bricks-haikyuu-230.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -2189,7 +2189,7 @@ const products = [
     price: 85000,
     dp: 70000,
     image: 'foto/ganci-haikyuu-85.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
