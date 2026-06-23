@@ -1540,7 +1540,7 @@ const products = [
     price: 97000,
     dp: 80000,
     image: 'foto/kose-vit-c-97.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1550,7 +1550,7 @@ const products = [
     price: 97000,
     dp: 80000,
     image: 'foto/kose-clear-97.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1560,7 +1560,7 @@ const products = [
     price: 100000,
     dp: 85000,
     image: 'foto/Dermalaser-100.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1570,7 +1570,7 @@ const products = [
     price: 110000,
     dp: 95000,
     image: 'foto/dermalaser-100-kiri-110.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1580,7 +1580,7 @@ const products = [
     price: 255000,
     dp: 245000,
     image: 'foto/tigeraid-255.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1590,7 +1590,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/&honey-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1600,7 +1600,7 @@ const products = [
     price: 167000,
     dp: 150000,
     image: 'foto/himawari-bloomdor-167.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1610,7 +1610,7 @@ const products = [
     price: 55000,
     dp: 40000,
     image: 'foto/conditioner-350ml-55.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1620,7 +1620,7 @@ const products = [
     price: 135000,
     dp: 120000,
     image: 'foto/diane-135.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
    {
@@ -1630,7 +1630,7 @@ const products = [
     price: 375000,
     dp: 360000,
     image: 'foto/aessa-375.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1640,7 +1640,7 @@ const products = [
     price: 120000,
     dp: 105000,
     image: 'foto/biore-sunscreen-120.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
  
@@ -1651,7 +1651,7 @@ const products = [
     price: 85000,
     dp: 70000,
     image: 'foto/ma&me-85.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1661,7 +1661,7 @@ const products = [
     price: 165000,
     dp: 150000,
     image: 'foto/ululis-pinkme-165.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1671,7 +1671,7 @@ const products = [
     price: 242000,
     dp: 230000,
     image: 'foto/ululi-black-230.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1681,7 +1681,7 @@ const products = [
     price: 170000,
     dp: 155000,
     image: 'foto/&honey-package-170.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   // ── Skincare Diskon ────────────────────────────────────────────
@@ -1775,7 +1775,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/uv-sun-stick-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
@@ -1785,7 +1785,7 @@ const products = [
     price: 150000,
     dp: 135000,
     image: 'foto/parfum-150.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
 {
@@ -1795,7 +1795,7 @@ const products = [
     price: 290000,
     dp: 275000,
     image: 'foto/tas-290.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: null
   },
   {
