@@ -2,7 +2,7 @@
 const WHATSAPP_NUMBER = '6282329191645';
 const STORE_NAME      = 'JASTIP JEPANG (CLOSED)';
 const STORE_SUBTITLE  = 'by hilyasmin 🇯🇵';
-
+const STORE_SUBTITLE  = 'Terimakasih atas antusiasnya! Mohon maaf, Periode jastip kali ini telah berakhir ^^';
 
 
 const products = [
