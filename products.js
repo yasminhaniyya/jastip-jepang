@@ -1,7 +1,7 @@
 
 const WHATSAPP_NUMBER = '6282329191645';
-const STORE_NAME      = 'JASTIP JEPANG';
-const STORE_SUBTITLE  = 'by hilyasmin 🇯🇵 (CLOSED)';
+const STORE_NAME      = 'JASTIP JEPANG (CLOSED)';
+const STORE_SUBTITLE  = 'by hilyasmin 🇯🇵';
 
 
 
