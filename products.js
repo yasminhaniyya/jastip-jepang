@@ -15,7 +15,7 @@ const products = [
     price: 35000,
     dp: 20000,
     image: 'foto/ghana-ori.jpeg',
-    status: 'open',
+    status: 'closed',
     badge: 'Best Seller'
   },
   {
